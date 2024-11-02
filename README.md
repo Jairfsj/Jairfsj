@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jairfsj
 - 👀 I’m interested in frendship'n'networking for projects
-- 🌱 I’m currently learning : Html5, CSS, Javascript'n'little bit Python
+- 🌱 Developer Rust and Mojo.
 - 💞️ I’m looking to collaborate on all projects that I can collaborate 
 - 📫 How to reach me? Here and this email, Jairfsj@gmail.com or jairfsj@iclud.com
 THX.
